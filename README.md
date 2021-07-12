@@ -26,9 +26,9 @@ Matlab
 
 2. Generate simulated noisy frames by running **./make_dataset/add_noise_main.m**
 
-3. Download the [pre-trained denoising models](https://drive.google.com/drive/folders/1r-FZ1eZ1H8v5k8UsFFa4snd8wTDd0_YL).
+3. Download the [pre-trained denoising models](https://drive.google.com/drive/folders/1r-FZ1eZ1H8v5k8UsFFa4snd8wTDd0_YL), then unzip this file and place the models into **./mynetwork/**.
 
-4. Download the test datasets [ASU and DTMC-HD](https://drive.google.com/drive/folders/1bOmulFTlGozqb_49ocBDKzblHA4LpSKN).
+4. Download the test datasets [ASU and DTMC-HD](https://drive.google.com/drive/folders/1bOmulFTlGozqb_49ocBDKzblHA4LpSKN), then unzip these files and place the test data into **./testsets/**.
 
 ### Training
 
