@@ -1,0 +1,8 @@
+
+
+###################
+
+Note that for the task of video denoising, the division of training and test datasets from Vimeo-90K are different from those of TOFlow by excluding the test sequences that have similar contents with those of training sequences, and all deep learning-based computing methods are re-trained using the same training and test datasets.
+
+For the task of video super-resolution, we use the same train training and test datasets from Vimeo-90K with those of TOFlow to facilitate the comparisons with other computing video super-resolution methods.
+
