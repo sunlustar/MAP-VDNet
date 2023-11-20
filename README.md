@@ -44,6 +44,22 @@ Matlab
 
 3. Test on Vimeo-90K dataset: ```python evaluate.py```
 
+### Citation
+If you find our work useful for your research, please consider citing the following papers
+
+```
+@article{sun2021deep,
+  title={Deep maximum a posterior estimator for video denoising},
+  author={Sun, Lu and Dong, Weisheng and Li, Xin and Wu, Jinjian and Li, Leida and Shi, Guangming},
+  journal={International Journal of Computer Vision},
+  volume={129},
+  pages={2827--2845},
+  year={2021},
+  publisher={Springer}
+}
+```
+
+
 ### Contact
 If you have any questions, please send an email to sunlustar@163.com.
 
